@@ -1,0 +1,228 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_333 {
+  width: 100%;
+  height: 1080px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_27 {
+  width: 100%;
+  height: 1080px;
+  background: url("../images/v1_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_5 {
+  width: 100%;
+  height: 100%;
+  background: rgb(77, 168, 116);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_12 {
+  width: 100%;
+  height: 141px;
+  background: rgba(96,124,109,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_13 {
+  width: 114px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 604px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_14 {
+  width: 133px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 810px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_15 {
+  width: 108px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 1035px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_16 {
+  width: 75px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 1235px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_17 {
+  width: 172px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 1397px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_19 {
+  width: 183px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 1701px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_20 {
+  width: 79px;
+  height: 79px;
+  background: rgba(255,229,85,1);
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 31px;
+  border-radius: 50%;
+}
+.v1_21 {
+  width: 63px;
+  height: 65px;
+  background: rgba(12,11,24,1);
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 39px;
+  border-radius: 50%;
+}
+.name {
+  color: #fff;
+}
+.v1_23 {
+  width: 194px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 39px;
+  left: 110px;
+  font-family: Figma Hand;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_141 {
+  width: 100%;
+  height: 939px;
+  background: url("../images/v1_141.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 141px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_142 {
+  width: 100%;
+  height: 202px;
+  background: rgba(0,0,0,0.8500000238418579);
+  opacity: 1;
+  position: absolute;
+  top: 509px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_146 {
+  width: 160px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 566px;
+  left: 880px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_143 {
+  width: 743px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 514px;
+  left: 589px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.v1_147 {
+  width: 387px;
+  height: 54px;
+  background: rgba(96,124,109,1);
+  opacity: 1;
+  position: absolute;
+  top: 621px;
+  left: 767px;
+  overflow: hidden;
+}
+.v1_148 {
+  width: 192px;
+  color: rgba(255,229,85,1);
+  position: absolute;
+  top: 625px;
+  left: 864px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
