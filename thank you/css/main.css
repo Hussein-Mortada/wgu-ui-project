@@ -1,0 +1,227 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v16_2 {
+  width: 100%;
+  height: 1667px;
+  background: url("../images/v16_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_344 {
+  width: 100%;
+  height: 1667px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_250 {
+  width: 100%;
+  height: 1667px;
+  background: url("../images/v1_250.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_251 {
+  width: 100%;
+  height: 100%;
+  background: rgb(77, 168, 116);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_332 {
+  width: 100%;
+  color: rgba(96,124,109,1);
+  position: absolute;
+  top: 1131px;
+  left: 0px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_331 {
+  width: 100%;
+  color: rgba(96,124,109,1);
+  position: absolute;
+  top: 800px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_330 {
+  width: 100%;
+  color: rgba(96,124,109,1);
+  position: absolute;
+  top: 700px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 96px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_252 {
+  width: 100%;
+  height: 141px;
+  background: rgba(96,124,109,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_253 {
+  width: 114px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 664px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_254 {
+  width: 133px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 870px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_255 {
+  width: 108px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 1095px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_256 {
+  width: 75px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 1295px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_257 {
+  width: 172px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 1457px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_258 {
+  width: 183px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 46px;
+  left: 1701px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_259 {
+  width: 79px;
+  height: 79px;
+  background: rgba(255,229,85,1);
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 31px;
+  border-radius: 50%;
+}
+.v1_260 {
+  width: 63px;
+  height: 65px;
+  background: rgba(12,11,24,1);
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 39px;
+  border-radius: 50%;
+}
+.name {
+  color: #fff;
+}
+.v1_262 {
+  width: 194px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 39px;
+  font-family: Figma Hand;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_327 {
+  width: 100%;
+  height: 517px;
+  background: url("../images/v1_327.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 141px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_329 {
+  width: 540px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 250px;
+  left: 110px;
+  font-family: Crimson Text;
+  font-weight: Regular;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
